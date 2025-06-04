@@ -84,6 +84,31 @@ Tagging: `@lftechnology`
 
 ---
 
+---
+
+###  Day 4 – Statistics & Probability
+
+ **Topic:** Statistics and Probability with Wine Dataset  
+ **Summary:**
+
+- Explored measures of central tendency (mean, median, mode)  
+- Examined spread using standard deviation and range  
+- Investigated the shape of distributions  
+- Visualized histograms, scatter plots, and box plots  
+- Explored correlation and basic probability estimation
+
+**Notebook:** [Google Colab – Day 4](https://shorturl.at/MQN6h)
+
+ **Tweet:**
+
+> Day 4 – Statistics & Probability  
+> Explored central tendency, spread, and shape using Wine dataset.  
+> Visualized distributions, checked correlations & probability estimation!  
+> Notebook: https://shorturl.at/MQN6h  
+> #LSPPDay4 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+
+---
+
 ##  Goal of This Challenge
 
 - Strengthen my foundation in **Python, Math, DS & AI**  
