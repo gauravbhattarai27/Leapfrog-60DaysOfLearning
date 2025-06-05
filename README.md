@@ -109,6 +109,34 @@ Tagging: `@lftechnology`
 
 ---
 
+
+---
+
+###  Day 5 – SQL Basics with Titanic Dataset
+
+**Topic:** Introduction to SQL using SQLite in Python  
+**Summary:**
+
+- Loaded Titanic dataset into SQLite using Python  
+- Queried structured data using SQL  
+- Practiced commands like `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, `CASE`, `LIKE`, and `IN`  
+- Performed analysis on survival rate, age groupings, and fare comparisons  
+- Implemented subqueries and conditional logic in SQL  
+
+**Notebook:** [Google Colab – Day 5](https://shorturl.at/UX8EL)
+
+**Tweet:**
+
+> Day 5 – SQL Basics with Titanic Dataset  
+> Practiced SQL using SQLite in Python 🐍  
+>  Queried Titanic passengers by survival, fare, age  
+>  Used `GROUP BY`, `CASE`, `LIKE`, subqueries & more  
+> Notebook: https://shorturl.at/UX8EL  
+> #LSPPDay5 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+
+---
+
+
 ##  Goal of This Challenge
 
 - Strengthen my foundation in **Python, Math, DS & AI**  
