@@ -137,6 +137,68 @@ Tagging: `@lftechnology`
 ---
 
 
+---
+
+### Day 6 – Web Scraping with BeautifulSoup
+
+**Topic:** Web Scraping Basics using Python  
+**Summary:**
+
+- Learned the fundamentals of web scraping and HTML structure  
+- Used the `requests` library to fetch web pages  
+- Parsed and extracted data from HTML using **BeautifulSoup**  
+- Practiced scraping quotes from a test website (quotes.toscrape.com)  
+- Gained hands-on experience extracting text, tags, and attributes from web elements  
+
+**Notebook:** [Google Colab – Day 6](https://shorturl.at/k0qUN)  
+🏷️ **Tags:** #LSPPDay6 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+
+---
+
+**Tweet:**
+
+> **gaurav bhattarai**  
+> @bhattarai2727   
+> Day-6  
+> Today I learned about web scraping and performed web scraping using Beautiful Soup.  
+> #LSPPDay6 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology  
+> Notebook: https://shorturl.at/k0qUN
+
+---
+
+
+
+---
+
+###  Day 7 – Supervised vs. Unsupervised Learning
+
+**Topic:** Understanding core types of Machine Learning  
+**Summary:**
+
+- Explored the fundamental difference between **supervised** and **unsupervised** learning  
+- Implemented a **Random Forest Classifier** on the Iris dataset to perform classification  
+- Applied **KMeans clustering** to group similar data points without labels  
+- Visualized results using `seaborn.pairplot()` to understand model behavior  
+- Compared clustering results with actual target classes for insights into model performance  
+
+**Notebook:** [Google Colab – Day 7](https://shorturl.at/3kGbG)  
+🏷️ **Tags:** #LSPPDay7 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+
+---
+
+**Tweet:**
+
+> **gaurav bhattarai**  
+> @bhattarai2727  
+> Day 7 – Supervised vs. Unsupervised Learning  
+> - Understood the core differences between supervised and unsupervised learning.  
+> Notebook: https://shorturl.at/3kGbG  
+> #LSPPDay7 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+
+---
+
+
+
 ##  Goal of This Challenge
 
 - Strengthen my foundation in **Python, Math, DS & AI**  
