@@ -197,6 +197,60 @@ Tagging: `@lftechnology`
 
 ---
 
+#  Day 8 – Attention Is All You Need
+
+
+---
+
+
+
+Today, I explored the foundational research paper that revolutionized modern NLP:
+
+> **“Attention Is All You Need” – Vaswani et al., 2017**  
+>  [Read the paper (NeurIPS 2017)](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
+---
+
+##  Key Learnings
+
+- The **Transformer model** introduced a new way to handle sequence data **without recurrence (RNNs/LSTMs)**.
+- Learned how **Self-Attention** enables each word to focus on all other words in a sentence.
+- Understood the role of **Queries, Keys, and Values** in computing attention scores.
+- Explored **Multi-Head Attention** for capturing multiple types of relationships in parallel.
+- Understood the need for **Positional Encoding** to retain word order.
+- Studied the **Encoder-Decoder** architecture used for tasks like translation.
+- Gained insights into how this architecture enables faster, parallelized training compared to RNNs.
+
+---
+
+##  Tools & Techniques Explored
+
+- Paper reading and breakdown
+- Hand-drawn architecture sketching
+- Visualized attention mechanisms using simplified examples
+- Related the architecture to modern models like **GPT, BERT, and T5**
+
+
+
+
+---
+
+##  Twitter Update
+
+```
+gaurav bhattarai  
+@bhattarai2727  
+Day 8 – “Attention Is All You Need”  
+- Studied the original Transformer paper by Vaswani et al.  
+- Learned how attention replaces recurrence in NLP.  
+- Understood the architecture behind GPT, BERT, and more.  
+Paper: https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf  
+#LSPPDay8 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+```
+
+---
+
+
 
 
 ##  Goal of This Challenge
