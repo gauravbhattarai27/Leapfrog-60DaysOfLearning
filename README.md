@@ -251,6 +251,26 @@ Paper: https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee
 ---
 
 
+---
+
+###  Day 9 – Linear Regression 
+
+**Topic:** Linear Regression – Modeling Relationships Between Variables  
+**Summary:**
+
+- Understood the concept of **linear relationships** between independent and dependent variables  
+- Explored **Simple Linear Regression** using `scikit-learn`  
+- Trained a model to predict continuous outcomes (e.g., house price vs. area)  
+- Evaluated performance using **Mean Squared Error (MSE)** and **R² Score**  
+- Visualized regression line and residuals  
+- Interpreted slope and intercept to explain predictions  
+
+
+---
+
+
+
+
 
 
 ##  Goal of This Challenge
