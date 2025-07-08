@@ -270,6 +270,36 @@ Paper: https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee
 
 
 
+---
+
+###  Day 10 – Logistic Regression
+
+**Topic:** Logistic Regression – Binary Classification  
+**Summary:**
+
+- Learned how to classify **binary outcomes** using `LogisticRegression` from `scikit-learn`  
+- Understood the **sigmoid function** and decision boundaries  
+- Trained a model on labeled data for classification tasks (e.g., spam detection, survived/died)  
+- Evaluated model using **Accuracy**, **Precision**, **Recall**, and **F1-Score**  
+- Visualized confusion matrix and decision boundary for better interpretability  
+
+🔗 **Notebook:** [Google Colab – Day 10](https://colab.research.google.com/drive/1ThpiObdGa87oGJ7mVvOh87JTl-eD_3-C?usp=sharing)
+
+
+
+**Tweet:**
+
+Day 10 – Logistic Regression
+Learned how to classify binary outcomes using LogisticRegression
+Evaluated with Accuracy, Precision, Recall & F1-Score
+#LSPPDay10 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+
+
+---
+
+
+
+
 
 
 
