@@ -30,16 +30,9 @@ Tagging: `@lftechnology`
 - Operators, loops, and conditions  
 - Functions & common string/list methods  
 
-🔗 **Notebook:** [Google Colab – Day 1](https://shorturl.at/CG8mo)  
+ **Notebook:** [Google Colab – Day 1](https://shorturl.at/CG8mo)  
 
- **Tweet:**  
-> Gaurav Bhattarai @bhattarai2727 · Jun 1  
-> Day 1 – Python Core Revision  
-> Revised Python fundamentals:  
-> Data types (int, float, str, list, dict)  
-> Operators, loops, and conditions  
-> Functions & common string/list methods  
-> #LSPPDay1 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+
 
 ---
 
@@ -54,13 +47,7 @@ Tagging: `@lftechnology`
 
  **Notebook:** [Google Colab – Day 2](https://shorturl.at/rUUeb)  
 
- **Tweet:**  
-> Gaurav Bhattarai @bhattarai2727 · Jun 2  
-> Day 2 – Linear Algebra Basics  
-> Dived into vectors, matrices, dot products & matrix multiplication.  
-> Book: Introduction to Linear Algebra by Gilbert Strang.  
-> Notebook : https://shorturl.at/rUUeb  
-> #LSPPDay2 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+
 
 ---
 
@@ -74,15 +61,9 @@ Tagging: `@lftechnology`
 
 **Notebook:** [Google Colab – Day 3](https://shorturl.at/G5yGI)  
 
- **Tweet:**  
-> Gaurav Bhattarai @bhattarai2727 · Jun 3  
-> Day 3 –  
-> Learned pandas, NumPy & Matplotlib — essential tools for data analysis and visualization.  
-> Explored the Titanic dataset to practice real-world data handling.  
-> Notebook : https://shorturl.at/G5yGI  
-> #LSPPDay3 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
 
----
+
+
 
 ---
 
@@ -99,15 +80,7 @@ Tagging: `@lftechnology`
 
 **Notebook:** [Google Colab – Day 4](https://shorturl.at/MQN6h)
 
- **Tweet:**
 
-> Day 4 – Statistics & Probability  
-> Explored central tendency, spread, and shape using Wine dataset.  
-> Visualized distributions, checked correlations & probability estimation!  
-> Notebook: https://shorturl.at/MQN6h  
-> #LSPPDay4 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
-
----
 
 
 ---
@@ -125,16 +98,7 @@ Tagging: `@lftechnology`
 
 **Notebook:** [Google Colab – Day 5](https://shorturl.at/UX8EL)
 
-**Tweet:**
 
-> Day 5 – SQL Basics with Titanic Dataset  
-> Practiced SQL using SQLite in Python 🐍  
->  Queried Titanic passengers by survival, fare, age  
->  Used `GROUP BY`, `CASE`, `LIKE`, subqueries & more  
-> Notebook: https://shorturl.at/UX8EL  
-> #LSPPDay5 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
-
----
 
 
 ---
@@ -151,20 +115,11 @@ Tagging: `@lftechnology`
 - Gained hands-on experience extracting text, tags, and attributes from web elements  
 
 **Notebook:** [Google Colab – Day 6](https://shorturl.at/k0qUN)  
-🏷️ **Tags:** #LSPPDay6 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+ **Tags:** #LSPPDay6 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
 
 ---
 
-**Tweet:**
 
-> **gaurav bhattarai**  
-> @bhattarai2727   
-> Day-6  
-> Today I learned about web scraping and performed web scraping using Beautiful Soup.  
-> #LSPPDay6 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology  
-> Notebook: https://shorturl.at/k0qUN
-
----
 
 
 
@@ -182,20 +137,10 @@ Tagging: `@lftechnology`
 - Compared clustering results with actual target classes for insights into model performance  
 
 **Notebook:** [Google Colab – Day 7](https://shorturl.at/3kGbG)  
-🏷️ **Tags:** #LSPPDay7 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+🏷 **Tags:** #LSPPDay7 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
 
 ---
 
-**Tweet:**
-
-> **gaurav bhattarai**  
-> @bhattarai2727  
-> Day 7 – Supervised vs. Unsupervised Learning  
-> - Understood the core differences between supervised and unsupervised learning.  
-> Notebook: https://shorturl.at/3kGbG  
-> #LSPPDay7 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
-
----
 
 #  Day 8 – Attention Is All You Need
 
@@ -211,7 +156,7 @@ Today, I explored the foundational research paper that revolutionized modern NLP
 
 ---
 
-##  Key Learnings
+**Summary:**
 
 - The **Transformer model** introduced a new way to handle sequence data **without recurrence (RNNs/LSTMs)**.
 - Learned how **Self-Attention** enables each word to focus on all other words in a sentence.
@@ -223,35 +168,11 @@ Today, I explored the foundational research paper that revolutionized modern NLP
 
 ---
 
-##  Tools & Techniques Explored
-
-- Paper reading and breakdown
-- Hand-drawn architecture sketching
-- Visualized attention mechanisms using simplified examples
-- Related the architecture to modern models like **GPT, BERT, and T5**
-
 
 
 
 ---
 
-##  Twitter Update
-
-```
-gaurav bhattarai  
-@bhattarai2727  
-Day 8 – “Attention Is All You Need”  
-- Studied the original Transformer paper by Vaswani et al.  
-- Learned how attention replaces recurrence in NLP.  
-- Understood the architecture behind GPT, BERT, and more.  
-Paper: https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf  
-#LSPPDay8 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
-```
-
----
-
-
----
 
 ###  Day 9 – Linear Regression 
 
@@ -283,19 +204,27 @@ Paper: https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee
 - Evaluated model using **Accuracy**, **Precision**, **Recall**, and **F1-Score**  
 - Visualized confusion matrix and decision boundary for better interpretability  
 
-🔗 **Notebook:** [Google Colab – Day 10](https://colab.research.google.com/drive/1ThpiObdGa87oGJ7mVvOh87JTl-eD_3-C?usp=sharing)
-
-
-
-**Tweet:**
-
-Day 10 – Logistic Regression
-Learned how to classify binary outcomes using LogisticRegression
-Evaluated with Accuracy, Precision, Recall & F1-Score
-#LSPPDay10 #60DaysOfLearning2025 #LearningWithLeapfrog @lftechnology
+ **Notebook:** [Google Colab – Day 10](https://colab.research.google.com/drive/1ThpiObdGa87oGJ7mVvOh87JTl-eD_3-C?usp=sharing)
 
 
 ---
+
+###  Day 11 – Decision Tree
+
+**Topic:** Decision Tree  
+**Summary:**
+ Learned how to classify data using DecisionTreeClassifier 
+ Used Gini Index (default) used for splitting.
+ Visualization using plot_tree() for better interpretability.
+
+
+**Notebook:** [Google Colab – Day 11](https://colab.research.google.com/drive/1xmcdZ9Rv_BpqPU9GmLWi_9F5HRftf2sf?usp=sharing)
+
+
+---
+
+
+
 
 
 
