@@ -223,6 +223,20 @@ Today, I explored the foundational research paper that revolutionized modern NLP
 
 ---
 
+---
+
+###  Day 53 – Data visualization
+
+**Topic:** data visualiation
+**Summary:**
+learned data visualization using seaborn . used seaborn inbuilt diamond dataset and various plots were created like histogram , countplot, violin plot,boxplot.
+
+
+**Notebook:** [Google Colab – Day 53](https://colab.research.google.com/drive/18C2y80V1NHoOnNslq6jX8FeAxnSFEcPx?usp=sharing)
+
+
+---
+
 
 
 
