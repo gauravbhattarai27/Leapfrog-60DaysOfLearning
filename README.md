@@ -238,6 +238,22 @@ learned data visualization using seaborn . used seaborn inbuilt diamond dataset 
 ---
 
 
+---
+
+###  Day 54 – Data Augmentation
+
+**Topic:** data Augmentation
+**Summary:**
+ learned about data augmentation. In which i performed rotation,zoom,flip,noise addition.
+
+
+
+**Notebook:** [Google Colab – Day 54](https://colab.research.google.com/drive/1DjGQS9t3Th-XoEij1btk9kuTjPsy7pNM?usp=sharing)
+
+
+---
+
+
 
 
 
